@@ -1,0 +1,15 @@
+{
+  "name": "googlemeet",
+  "version": "1.0.0",
+  "description": "try to create a virtual job fair",
+  "main": "index.js",
+  "scripts": {
+   "start": "node server"
+  },
+  "author": "jv cataquiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
